@@ -7,6 +7,7 @@
 * Front-End Techologies
   - Jquery
   - Bootstrap & CSS
+  - HTML 5.0
   
  
 * Tools
