@@ -1,2 +1,0 @@
-2016-08-14 02:31:52,850 INFO com.hafele.dailyexchangerate.controller.CurrencyController:27 [tomcat-http--32] Controller metoduna girildi.
-2016-08-14 02:31:53,273 INFO com.hafele.dailyexchangerate.service.impl.HtmlParserServiceImpl:103 [tomcat-http--32] Currency listesi oluşturuldu.
